@@ -1,11 +1,16 @@
-# Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
+Funcionamiento de un ascensor.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+María Lamora Fernandez
+Jorge Lopez del Hoyo
+Pablo Moreno Martín
 
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender a utilizar Arduino.
+Descubrir componentes del mismo y su funcionamiento.
+Ver respuestas físicas a lo programado.
+Montar correctamente los pulsadores y leds y seleccionar sus resistencias.
+Mantener el orden y limpieza en el montaje de un circuito en placa.
+protoboard y cotroladora Arduino.
+Programar correctamente la automatización del ascensor.
